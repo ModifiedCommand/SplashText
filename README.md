@@ -2,10 +2,10 @@
 
 All Minecraft Splashes for Java Edition in text file format.
 
-For a quicker load times please use [jsdelivr](https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/):
+For a quicker load times please use [jsdelivr](https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText@main/):
 
 ```txt
-https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/<VERSION>
+https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText@main/<VERSION>/<FILE>
 ```
 
 [![](https://data.jsdelivr.com/v1/package/gh/modifiedcommand/SplashText/badge?style=rounded)](https://www.jsdelivr.com/package/gh/modifiedcommand/SplashText)
@@ -33,6 +33,7 @@ https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/<VERSION>
 - [1.1.X](1.1/)
 - [1.0.X](1.0/)
 
-## [Beta](old_beta/)
+## Older Versions
 
-## [Alpha](old_alpha/)
+- [Beta](old_beta/)
+- [Alpha](old_alpha/)
