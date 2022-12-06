@@ -18,3 +18,4 @@ All Minecraft Splashes for Java Edition in text file format
 - [1.8.X](1.8/)
 - [1.7.X](1.7/)
 - [1.6.X](1.6/)
+- [1.5.X](1.5/)
