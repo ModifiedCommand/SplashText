@@ -1,10 +1,14 @@
 # Splash Text
 
-All Minecraft Splashes for Java Edition in text file format
+All Minecraft Splashes for Java Edition in text file format.
+
+For a quicker load times please use [jsdelivr](https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/):
 
 ```txt
-https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/
+https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/<VERSION>
 ```
+
+[![](https://data.jsdelivr.com/v1/package/gh/modifiedcommand/SplashText/badge?style=rounded)](https://www.jsdelivr.com/package/gh/modifiedcommand/SplashText)
 
 ## Versions
 
