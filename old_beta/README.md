@@ -1,5 +1,7 @@
 # Beta
 
+Beta Splashes
+
 ## Versions
 
 - [b1.8.1](b1.8.1.txt)
