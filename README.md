@@ -11,3 +11,4 @@ All Minecraft Splashes for Java Edition in text file format
 - [1.15.X](1.15/)
 - [1.14.X](1.14/)
 - [1.13.X](1.13/)
+- [1.12.X](1.12/)
