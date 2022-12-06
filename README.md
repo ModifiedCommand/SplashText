@@ -2,6 +2,10 @@
 
 All Minecraft Splashes for Java Edition in text file format
 
+```txt
+https://cdn.jsdelivr.net/gh/modifiedcommand/SplashText/
+```
+
 ## Versions
 
 - [1.19.X](1.19/)
